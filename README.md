@@ -1,4 +1,2 @@
 # Lab_3: Bank simulation
-![My Image](diagram.png | width = 500)
-
-
+<img src="https://github.com/diagram.png" width="500">
