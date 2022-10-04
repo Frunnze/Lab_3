@@ -7,4 +7,4 @@ describe your hierarchy, what objects you defined, what logic they implement and
 - "Bank" has several attributes like "name", "location", and weather it is "open" or not.
 2. The superclasses are:
 - "Person" 
-- which contains the child clasess "Customer" and "Employee".
+-- which contains the child clasess "Customer" and "Employee".
