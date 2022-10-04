@@ -1,3 +1,3 @@
-# Lab_3
+# Lab_3: Bank simulation
 ![My Image](diagram.png)
 
