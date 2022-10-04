@@ -1,11 +1,11 @@
 # Lab_3: Bank simulation
 <img src="https://github.com/Frunnze/Lab_3/blob/main/diagram.png" width="800">
 
-1. The root class of this hierarchy is "Bank".
+The root class of this hierarchy is "Bank".
 - "Bank" has several attributes like "name", "location", and whether it is "open" or not.
 - The methods of this class: to "set" the name and to "get" the name.
 
-The superclasses on the second level:
+The superclasses:
 1. "Person" which inherits the above attributes and methods, and adds another attribute called "gender" and the methods "set" and "get" gender, which will help us to pick the right pronoun when the customers and employees speak to each other.
 - The child classes of "Person" are "Customer" and "Employee".
 - At this point, the "Customer" and "Employee" classes inherit two, among others, important attributes "name", "gender", and their setter and getters.
